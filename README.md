@@ -9,8 +9,8 @@ Projects created by a self-taught student for each course of the [**Computer Sci
 Project Title | Description | Author(s) | Repository
 :-- | :-- | :--: | :--
 Hello World | First program written in Java, obviously | [Owusu Samuel](https://github.com/real-gobs) | [HelloWorld](https://github.com/real-gobs/HelloWorld)
-Positive | Second program written in Java | [Owusu Samuel](https://github.com/real-gobs) | [HelloWorld](https://github.com/real-gobs/Positive)
-Conditions | Third program written in Java | [Owusu Samuel](https://github.com/real-gobs) | [HelloWorld](https://github.com/real-gobs/Conditions)
+Degree Converter | Second program written in Java that convert Fahrenheit Degree to Celcius | [Owusu Samuel](https://github.com/real-gobs) | [F2C](https://github.com/real-gobs/F2C)
+
 
 ### Math (Mathematical Thinking)
 
